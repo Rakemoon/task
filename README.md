@@ -1,4 +1,8 @@
-/home/runner/work/task/task/src/README.md
+# Tugas 📚
+Hanyalah sebuah kumpulan tugas.
+
+## List
+
 - .git
   - [FETCH_HEAD](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/FETCH_HEAD)
   - [HEAD](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/HEAD)
@@ -31,32 +35,32 @@
         - origin
           - [master](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/logs/refs/remotes/origin/master)
   - objects
-    - 1c
-      - [6591fa51d5bc1283ce8341235e78750550d1b4](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/1c/6591fa51d5bc1283ce8341235e78750550d1b4)
-    - 26
-      - [4f4fd7d2cbaae7df51a27d345da2484900a17d](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/26/4f4fd7d2cbaae7df51a27d345da2484900a17d)
     - 31
       - [b89d1f36b224a5a3bfc1497672ba47bd4c0559](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/31/b89d1f36b224a5a3bfc1497672ba47bd4c0559)
     - 4b
       - [bbf81d3bdf5c945e38764c3627f6a0db0768a9](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/4b/bbf81d3bdf5c945e38764c3627f6a0db0768a9)
     - 5a
       - [08f836ecbc8cacfd8b95d98dc61244860510c6](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/5a/08f836ecbc8cacfd8b95d98dc61244860510c6)
+    - 72
+      - [671237a8e860a1ece0d33ea662ec49c4cde845](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/72/671237a8e860a1ece0d33ea662ec49c4cde845)
     - 88
       - [04a3bd0a678d6f3e40d9749dee685be5828b64](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/88/04a3bd0a678d6f3e40d9749dee685be5828b64)
     - 90
       - [b2380eb8304dc737822c69f527f441ca300f7f](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/90/b2380eb8304dc737822c69f527f441ca300f7f)
     - 97
       - [74f3370fe0dd44a06b98b404b3163cc7a4a33c](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/97/74f3370fe0dd44a06b98b404b3163cc7a4a33c)
+    - ae
+      - [5a133909b7fbbb88645d04499198011657e848](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/ae/5a133909b7fbbb88645d04499198011657e848)
     - be
       - [51a3121517e1498ac3364144156f94bc031c69](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/be/51a3121517e1498ac3364144156f94bc031c69)
     - d3
       - [4a8067b8284e7485c554c003e70a2a4bc2a658](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/d3/4a8067b8284e7485c554c003e70a2a4bc2a658)
-    - d4
-      - [e5a356a464ee2832d11e10110220153bfaab30](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/d4/e5a356a464ee2832d11e10110220153bfaab30)
-    - dd
-      - [d5f93ed30390623044456076ec0401b498eea2](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/dd/d5f93ed30390623044456076ec0401b498eea2)
-    - ed
-      - [dda2395db51df7ccb5116610e218c65770fb1c](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/ed/dda2395db51df7ccb5116610e218c65770fb1c)
+    - e8
+      - [6def97acc80d8d242a4b3c617401a36898fb8e](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/e8/6def97acc80d8d242a4b3c617401a36898fb8e)
+    - f3
+      - [b94c5afec3eaba86cca6159b556987886247c9](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/f3/b94c5afec3eaba86cca6159b556987886247c9)
+    - fe
+      - [1dc485152dfc662c837988f5671be11cae7e7a](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/.git/objects/fe/1dc485152dfc662c837988f5671be11cae7e7a)
     - info
 
     - pack
@@ -123,6 +127,7 @@
         - [e90edf591499f7265424c47345f5956b8cf22b](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/31/e90edf591499f7265424c47345f5956b8cf22b)
       - 42
         - [fdeed3e311edc38bbc054bbddbea16c8914b53](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/42/fdeed3e311edc38bbc054bbddbea16c8914b53)
+        - [fe214538f73f75950bfeb7b152ea19c32f2ea6](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/42/fe214538f73f75950bfeb7b152ea19c32f2ea6)
       - 46
         - [cbb862bf8bb63f13dd70165b3c91f24a8c45ee](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/46/cbb862bf8bb63f13dd70165b3c91f24a8c45ee)
       - 4b
@@ -139,6 +144,8 @@
         - [41fce014f4597fb9e19d158bab41f039ddd23c](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/6a/41fce014f4597fb9e19d158bab41f039ddd23c)
       - 6d
         - [7d7987a2998b69b553000a20d6362d00bcfab3](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/6d/7d7987a2998b69b553000a20d6362d00bcfab3)
+      - 72
+        - [671237a8e860a1ece0d33ea662ec49c4cde845](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/72/671237a8e860a1ece0d33ea662ec49c4cde845)
       - 74
         - [4bfd0651a7274785133ba6916c21cd6a4c5f84](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/74/4bfd0651a7274785133ba6916c21cd6a4c5f84)
         - [f8283d5f8115b7ed4621532e8bdbfc1fc78e00](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/74/f8283d5f8115b7ed4621532e8bdbfc1fc78e00)
@@ -164,6 +171,8 @@
         - [74f3370fe0dd44a06b98b404b3163cc7a4a33c](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/97/74f3370fe0dd44a06b98b404b3163cc7a4a33c)
       - a4
         - [97798f71c47a631ddce0c20b14b52b09e58d6a](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/a4/97798f71c47a631ddce0c20b14b52b09e58d6a)
+      - ae
+        - [5a133909b7fbbb88645d04499198011657e848](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/ae/5a133909b7fbbb88645d04499198011657e848)
       - b1
         - [da4d1e76d87c900aa3deb8686f16eae6c1f2fd](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/b1/da4d1e76d87c900aa3deb8686f16eae6c1f2fd)
       - b8
@@ -180,6 +189,7 @@
         - [4a8067b8284e7485c554c003e70a2a4bc2a658](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/d3/4a8067b8284e7485c554c003e70a2a4bc2a658)
       - d4
         - [e5a356a464ee2832d11e10110220153bfaab30](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/d4/e5a356a464ee2832d11e10110220153bfaab30)
+        - [fef5c1821d13aa383f41fae9c05a57eac90cf8](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/d4/fef5c1821d13aa383f41fae9c05a57eac90cf8)
       - d6
         - [827d283fe0a4816de030fa9a4bee82cfe309ab](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/d6/827d283fe0a4816de030fa9a4bee82cfe309ab)
       - d7
@@ -190,11 +200,16 @@
         - [6a19295e9ed79bdfff2df06baca4091973df77](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/e1/6a19295e9ed79bdfff2df06baca4091973df77)
       - e6
         - [3f3423779ba7c5a6bf635907b837965b615cc7](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/e6/3f3423779ba7c5a6bf635907b837965b615cc7)
+      - e8
+        - [6def97acc80d8d242a4b3c617401a36898fb8e](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/e8/6def97acc80d8d242a4b3c617401a36898fb8e)
       - ea
         - [6fdbe72758e2079be3aea32fd396f0f9170c6f](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/ea/6fdbe72758e2079be3aea32fd396f0f9170c6f)
       - ed
         - [dda2395db51df7ccb5116610e218c65770fb1c](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/ed/dda2395db51df7ccb5116610e218c65770fb1c)
+      - f3
+        - [b94c5afec3eaba86cca6159b556987886247c9](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/f3/b94c5afec3eaba86cca6159b556987886247c9)
       - fe
+        - [1dc485152dfc662c837988f5671be11cae7e7a](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/fe/1dc485152dfc662c837988f5671be11cae7e7a)
         - [efaba38c4357f19f4fe876e467e1eb5b238fc8](https:/github.com/Rakemoon/task/blob/master/home/runner/work/task/task/out/.git/objects/fe/efaba38c4357f19f4fe876e467e1eb5b238fc8)
       - info
 
