@@ -4,7 +4,8 @@ const { join } = require("path");
 const baseReadme = join(__dirname, "./README.md");
 const readme = readFileSync(baseReadme, "utf8");
 
-const ignores = ["src", ".github", ".git", "out", "README.md"];
+const ignoredFolders = ["src", ".github", ".git", "out"];
+const ignoredFiles = ["README.md"];
 
 const repository = "https://github.com/Rakemoon/task/blob/master";
 
@@ -15,9 +16,13 @@ function getTasks(dir, indent = 0) {
 		let file = files[i];
 		const path = join(dir, file);
 		if (statSync(path).isDirectory()) {
-			if (ignores.includes(file)) continue;
+			if (ignoredFolders.includes(file)) continue;
 			file = `${file}\n${getTasks(path, indent + 1)}`;
-		} else file = `[${file}](${new URL(join(repository, path.replace("task/", ""))).href})`;
+		} else {
+			if (ignoredFiles.includes(file)) continue;
+			const url = join(repository, path.replace(dir, ""))
+			file = `[${file}](${new URL(url).href})`;
+		}
 		result += `${"  ".repeat(indent)}- ${file}`;
 		if (i < files.length - 1) result += "\n";
 	}
