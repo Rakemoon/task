@@ -18,7 +18,7 @@ jobs:
     - name: Build and Push
       run: |
         REPO="https://${GUTHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-        git clone $REP out
+        git clone $REPO out -b master
         node src
         mv README.md out/README.md
         cd out
