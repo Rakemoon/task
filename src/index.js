@@ -26,5 +26,5 @@ function getTasks(dir, indent = 0) {
 
 const tasks = getTasks(__dirname);
 const path = join(__dirname, "../README.md");
-writeFileSync(path, `${baseReadme\n${tasks}`, { encoding: "utf8" });
+writeFileSync(path, `${baseReadme}\n${tasks}`, { encoding: "utf8" });
 process.exit();
