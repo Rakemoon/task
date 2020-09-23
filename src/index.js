@@ -20,7 +20,7 @@ function getTasks(dir, indent = 0) {
 			file = `${file}\n${getTasks(path, indent + 1)}`;
 		} else {
 			if (ignoredFiles.includes(file)) continue;
-			const url = join(repository, path.replace(dir, ""))
+			const url = join(repository, path.replace(process.cwd(), ""))
 			file = `[${file}](${new URL(url).href})`;
 		}
 		result += `${"  ".repeat(indent)}- ${file}`;
