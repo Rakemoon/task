@@ -1,4 +1,4 @@
 # Tugas 📚
-Hanyalah sebuah kumpulan tugas.
+Hanyalah kumpulan tugas. **GK LEBIH!**
 
 ## List
