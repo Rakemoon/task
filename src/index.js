@@ -25,8 +25,8 @@ function getTasks(dir, indent = 0) {
 			file = `${spaces}- <details><summary>${file}</summary>\n\n${getTasks(path, indent + 2)}\n${spaces}${getIndent(indent + 1)}</details>`
 		} else {
 			if (ignoredFiles.includes(file)) continue;
-			const url = join(repository, file.replace(cwd, ""));
-			file = `${spaces}- ${new URL(url).href}`;
+			const url = join(repository, path.replace(cwd, ""));
+			file = `${spaces}- [${file}](${new URL(url).href})`;
 		}
 		result += file;
 		if (i < files.length - 1) result += "\n";
