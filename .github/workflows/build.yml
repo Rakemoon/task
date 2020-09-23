@@ -15,8 +15,6 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - name: Restore CI Cache
-      uses: actions/cache@v1
     - name: Build and Push
       run: |
         REPO="https://${GUTHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
