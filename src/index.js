@@ -22,7 +22,7 @@ function getTasks(dir, indent = 0) {
 		const path = join(dir, file);
 		if (statSync(path).isDirectory()) {
 			if (ignoredFolders.includes(file)) continue;
-			file = `${spaces}- <details><summary>${file}</summary>\n\n${getTasks(path, indent + 2)}\n${spaces}${getIndent(indent + 1)}</details>`
+			file = `${spaces}- <details><summary>${file}</summary>\n\n${getTasks(path, indent + 2)}\n${spaces}${getIndent(1)}</details>`
 		} else {
 			if (ignoredFiles.includes(file)) continue;
 			const url = join(repository, path.replace(cwd, ""));
