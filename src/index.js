@@ -4,7 +4,7 @@ const { join } = require("path");
 const baseReadme = join(__dirname, "./README.md");
 const readme = readFileSync(baseReadme, "utf8");
 
-const ignores = ["src", ".github"];
+const ignores = ["src", ".github", ".git", "out"];
 
 const repository = "https://github.com/Rakemoon/task/blob/master";
 
