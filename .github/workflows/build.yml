@@ -25,7 +25,7 @@ jobs:
         git add --all
         git config user.name "${GITHUB_ACTOR}"
         git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git commit -m "code: Build from ${GITHUB_SHA}" || true
+        git commit -m "chore: Update README.md" || true
         git push origin master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
